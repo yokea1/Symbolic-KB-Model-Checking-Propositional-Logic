@@ -74,7 +74,7 @@ Core Concepts: Propositional Logic, Knowledge Representation, Model Checking
 Library: Custom logic.py module (based on MIT AI logic framework)
 
 🧑‍💻 Author | 作者
-He Yuke (何昱柯)
+He Yuke (何雨珂)
 Software Engineering, UPM
 Email: heyukeyoke@gmail.com
 
