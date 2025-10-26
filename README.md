@@ -1,4 +1,3 @@
-# Symbolic-KB-Model-Checking-Propositional-Logic
 # Symbolic KB & Model Checking — Propositional Logic  
 # 符号知识库与模型检验 — 命题逻辑
 
@@ -92,5 +91,4 @@ Strengthened understanding of propositional logic semantics and truth evaluation
 
 强化了对命题逻辑语义与真值评估的理解。
 
-yaml
-Copy code
+
